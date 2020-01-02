@@ -1,0 +1,1 @@
+x = min_x + ((argument0-argument1)/(argument2-argument1))*(max_x-min_x);

@@ -1,0 +1,1 @@
+return display_get_width()*argument0 / 100.0

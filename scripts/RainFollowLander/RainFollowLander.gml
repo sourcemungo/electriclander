@@ -1,0 +1,1 @@
+with(obj_RainController) follow_lander = argument0;

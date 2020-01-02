@@ -1,0 +1,2 @@
+GetStartSizes();
+SetHelperScreenSizes();

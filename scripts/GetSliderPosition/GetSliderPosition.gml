@@ -1,0 +1,1 @@
+return argument0 + ((x-min_x)/(max_x-min_x)) * (argument1-argument0);

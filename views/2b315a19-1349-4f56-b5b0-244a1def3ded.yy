@@ -1,0 +1,31 @@
+{
+    "id": "2b315a19-1349-4f56-b5b0-244a1def3ded",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "2b315a19-1349-4f56-b5b0-244a1def3ded",
+    "children": [
+        "e32cc999-4702-402e-a768-34c2f9877027",
+        "7d1a1496-870d-4eee-9054-39431f9bf83d",
+        "fa358967-4f52-4bfa-95f0-271706dc6224",
+        "e532311b-645f-4c4d-9848-39fbfbf40e9d",
+        "9690cd33-0273-4b5f-a69a-5f1b5fe55b4c",
+        "2758a37a-7431-457d-a391-590b14cf646a",
+        "6e052770-9bd4-4ec3-8912-e80bf2d68c09",
+        "b3523dc6-388f-4c5f-bbef-e210f8c17232",
+        "7dd4560f-c10b-4197-b92e-f4b1ecfe13cb",
+        "3b8ad78f-9b8c-4250-967a-d810b2e1c67c",
+        "25e546e2-7b29-4318-8a31-5086df12cace",
+        "ee3c6000-4855-44fa-aa38-487baa893149",
+        "b4040719-0320-4969-aee2-d8142e58db35",
+        "b24bb27f-e5dd-42df-a851-48a58e588831",
+        "12812de2-d1e1-460e-8eb5-a60486138830",
+        "60258fa5-09ab-4ae8-ae45-c672f1b6f975",
+        "52af43b4-7564-4a05-b8c5-2b1bdc1fd909",
+        "6a2bb7cb-0269-43dd-b7df-7c96e6c145f1",
+        "8dacd619-aff8-458d-bf9b-3495d52e06d5"
+    ],
+    "filterType": "GMObject",
+    "folderName": "GamePlay",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

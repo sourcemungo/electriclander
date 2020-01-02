@@ -1,0 +1,1 @@
+return display_get_height() * argument0 / 100.0

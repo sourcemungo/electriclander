@@ -1,0 +1,341 @@
+Converting GML script: MACRO: GM_version
+Converted string - line 1: '1.1.0' -> "1.1.0"
+
+Converting GML script: ${project_dir}\scripts\InitialiseGlobal\InitialiseGlobal.gml
+Converted string - line 127: '' -> ""
+
+Converting GML script: ${project_dir}\scripts\SetupRoomViewsMobile\SetupRoomViewsMobile.gml
+Converted builtin - line 20: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 40: view_xview[1] = 0 -> __view_set( e__VW.XView, 1, 0 )
+Converted builtin - line 87: view_xview[3] = 0 -> __view_set( e__VW.XView, 3, 0 )
+Converted builtin - line 107: view_xview[5] = 0 -> __view_set( e__VW.XView, 5, 0 )
+Converted builtin - line 21: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 41: view_yview[1] = 1600 -> __view_set( e__VW.YView, 1, 1600 )
+Converted builtin - line 88: view_yview[3] = 1400 -> __view_set( e__VW.YView, 3, 1400 )
+Converted builtin - line 108: view_yview[5] = 1000 -> __view_set( e__VW.YView, 5, 1000 )
+Converted builtin - line 16: view_wview[0] = 656 -> __view_set( e__VW.WView, 0, 656 )
+Converted builtin - line 36: view_wview[1] = 384 -> __view_set( e__VW.WView, 1, 384 )
+Converted builtin - line 62: view_wview[2] = 480 -> __view_set( e__VW.WView, 2, 480 )
+Converted builtin - line 83: view_wview[3] = 640 -> __view_set( e__VW.WView, 3, 640 )
+Converted builtin - line 103: view_wview[5] = 500 -> __view_set( e__VW.WView, 5, 500 )
+Converted builtin - line 17: view_hview[0] = 512 -> __view_set( e__VW.HView, 0, 512 )
+Converted builtin - line 37: view_hview[1] = 200 -> __view_set( e__VW.HView, 1, 200 )
+Converted builtin - line 61: view_hview[2] = 480 -> __view_set( e__VW.HView, 2, 480 )
+Converted builtin - line 84: view_hview[3] = 120 -> __view_set( e__VW.HView, 3, 120 )
+Converted builtin - line 104: view_hview[5] = 400 -> __view_set( e__VW.HView, 5, 400 )
+Converted builtin - line 65: view_hborder[2] = 256 -> __view_set( e__VW.HBorder, 2, 256 )
+Converted builtin - line 66: view_vborder[2] = 256 -> __view_set( e__VW.VBorder, 2, 256 )
+Converted builtin - line 22: view_object[0] = noone -> __view_set( e__VW.Object, 0, noone )
+Converted builtin - line 42: view_object[1] = noone -> __view_set( e__VW.Object, 1, noone )
+Converted builtin - line 64: view_object[2] = obj_Lander -> __view_set( e__VW.Object, 2, obj_Lander )
+Converted builtin - line 89: view_object[3] = noone -> __view_set( e__VW.Object, 3, noone )
+Converted builtin - line 109: view_object[5] = noone -> __view_set( e__VW.Object, 5, noone )
+Converted builtin - line 5: view_visible[0] = true -> __view_set( e__VW.Visible, 0, true )
+Converted builtin - line 44: view_visible[1] = true -> __view_set( e__VW.Visible, 1, true )
+Converted builtin - line 68: view_visible[2] = true -> __view_set( e__VW.Visible, 2, true )
+Converted builtin - line 73: view_visible[3] = true -> __view_set( e__VW.Visible, 3, true )
+Converted builtin - line 93: view_visible[5] = false -> __view_set( e__VW.Visible, 5, false )
+Converted builtin - line 11: view_xport[0] = 0 -> __view_set( e__VW.XPort, 0, 0 )
+Converted builtin - line 31: view_xport[1] = 257 -> __view_set( e__VW.XPort, 1, 257 )
+Converted builtin - line 55: view_xport[2] = 0 -> __view_set( e__VW.XPort, 2, 0 )
+Converted builtin - line 75: view_xport[3] = 0 -> __view_set( e__VW.XPort, 3, 0 )
+Converted builtin - line 95: view_xport[5] = 70 -> __view_set( e__VW.XPort, 5, 70 )
+Converted builtin - line 12: view_yport[0] = 0 -> __view_set( e__VW.YPort, 0, 0 )
+Converted builtin - line 32: view_yport[1] = 0 -> __view_set( e__VW.YPort, 1, 0 )
+Converted builtin - line 56: view_yport[2] = 200 -> __view_set( e__VW.YPort, 2, 200 )
+Converted builtin - line 76: view_yport[3] = 840 -> __view_set( e__VW.YPort, 3, 840 )
+Converted builtin - line 96: view_yport[5] = 300 -> __view_set( e__VW.YPort, 5, 300 )
+Converted builtin - line 8: view_wport[0] = 256 -> __view_set( e__VW.WPort, 0, 256 )
+Converted builtin - line 28: view_wport[1] = 384 -> __view_set( e__VW.WPort, 1, 384 )
+Converted builtin - line 51: view_wport[2] = 640 -> __view_set( e__VW.WPort, 2, 640 )
+Converted builtin - line 78: view_wport[3] = 640 -> __view_set( e__VW.WPort, 3, 640 )
+Converted builtin - line 98: view_wport[5] = 500 -> __view_set( e__VW.WPort, 5, 500 )
+Converted builtin - line 9: view_hport[0] = 200 -> __view_set( e__VW.HPort, 0, 200 )
+Converted builtin - line 29: view_hport[1] = 200 -> __view_set( e__VW.HPort, 1, 200 )
+Converted builtin - line 52: view_hport[2] = 640 -> __view_set( e__VW.HPort, 2, 640 )
+Converted builtin - line 79: view_hport[3] = 120 -> __view_set( e__VW.HPort, 3, 120 )
+Converted builtin - line 99: view_hport[5] = 400 -> __view_set( e__VW.HPort, 5, 400 )
+
+Converting GML script: ${project_dir}\scripts\SetupRoomTablet\SetupRoomTablet.gml
+Converted builtin - line 15: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 32: view_xview[1] = -(656*2048/1500-656)/2 -> __view_set( e__VW.XView, 1, -(656*2048/1500-656)/2 )
+Converted builtin - line 50: view_xview[2] = 0 -> __view_set( e__VW.XView, 2, 0 )
+Converted builtin - line 68: view_xview[5] = 0 -> __view_set( e__VW.XView, 5, 0 )
+Converted builtin - line 16: view_yview[0] = 1400 -> __view_set( e__VW.YView, 0, 1400 )
+Converted builtin - line 33: view_yview[1] = 0 -> __view_set( e__VW.YView, 1, 0 )
+Converted builtin - line 51: view_yview[2] = 1600 -> __view_set( e__VW.YView, 2, 1600 )
+Converted builtin - line 69: view_yview[5] = 1000 -> __view_set( e__VW.YView, 5, 1000 )
+Converted builtin - line 13: view_wview[0] = 2048 -> __view_set( e__VW.WView, 0, 2048 )
+Converted builtin - line 30: view_wview[1] = 656*2048/1500 -> __view_set( e__VW.WView, 1, 656*2048/1500 )
+Converted builtin - line 48: view_wview[2] = 384 -> __view_set( e__VW.WView, 2, 384 )
+Converted builtin - line 66: view_wview[5] = 500 -> __view_set( e__VW.WView, 5, 500 )
+Converted builtin - line 14: view_hview[0] = 120 -> __view_set( e__VW.HView, 0, 120 )
+Converted builtin - line 31: view_hview[1] = 512 -> __view_set( e__VW.HView, 1, 512 )
+Converted builtin - line 49: view_hview[2] = 200 -> __view_set( e__VW.HView, 2, 200 )
+Converted builtin - line 67: view_hview[5] = 400 -> __view_set( e__VW.HView, 5, 400 )
+Converted builtin - line 18: view_object[0] = noone -> __view_set( e__VW.Object, 0, noone )
+Converted builtin - line 35: view_object[1] = noone -> __view_set( e__VW.Object, 1, noone )
+Converted builtin - line 53: view_object[2] = noone -> __view_set( e__VW.Object, 2, noone )
+Converted builtin - line 71: view_object[5] = noone -> __view_set( e__VW.Object, 5, noone )
+Converted builtin - line 19: view_visible[0] = true -> __view_set( e__VW.Visible, 0, true )
+Converted builtin - line 36: view_visible[1] = true -> __view_set( e__VW.Visible, 1, true )
+Converted builtin - line 54: view_visible[2] = true -> __view_set( e__VW.Visible, 2, true )
+Converted builtin - line 72: view_visible[5] = false -> __view_set( e__VW.Visible, 5, false )
+Converted builtin - line 9: view_xport[0] = 0 -> __view_set( e__VW.XPort, 0, 0 )
+Converted builtin - line 26: view_xport[1] = 0 -> __view_set( e__VW.XPort, 1, 0 )
+Converted builtin - line 44: view_xport[2] = (2048-384*1.3)/2 -> __view_set( e__VW.XPort, 2, (2048-384*1.3)/2 )
+Converted builtin - line 62: view_xport[5] = (2048-1000)/2 -> __view_set( e__VW.XPort, 5, (2048-1000)/2 )
+Converted builtin - line 10: view_yport[0] = 0 -> __view_set( e__VW.YPort, 0, 0 )
+Converted builtin - line 27: view_yport[1] = 300 -> __view_set( e__VW.YPort, 1, 300 )
+Converted builtin - line 45: view_yport[2] = 0 -> __view_set( e__VW.YPort, 2, 0 )
+Converted builtin - line 63: view_yport[5] = 500 -> __view_set( e__VW.YPort, 5, 500 )
+Converted builtin - line 7: view_wport[0] = 2048 -> __view_set( e__VW.WPort, 0, 2048 )
+Converted builtin - line 24: view_wport[1] = 2048 -> __view_set( e__VW.WPort, 1, 2048 )
+Converted builtin - line 42: view_wport[2] = 384*1.5 -> __view_set( e__VW.WPort, 2, 384*1.5 )
+Converted builtin - line 60: view_wport[5] = 1000 -> __view_set( e__VW.WPort, 5, 1000 )
+Converted builtin - line 8: view_hport[0] = 120 -> __view_set( e__VW.HPort, 0, 120 )
+Converted builtin - line 25: view_hport[1] = 1171 -> __view_set( e__VW.HPort, 1, 1171 )
+Converted builtin - line 43: view_hport[2] = 300 -> __view_set( e__VW.HPort, 2, 300 )
+Converted builtin - line 61: view_hport[5] = 800 -> __view_set( e__VW.HPort, 5, 800 )
+
+Converting GML script: ${project_dir}\scripts\SetupRoomViewsBrowser\SetupRoomViewsBrowser.gml
+Converted builtin - line 16: view_xview[1] = -(656*2048/1500-656)/2 -> __view_set( e__VW.XView, 1, -(656*2048/1500-656)/2 )
+Converted builtin - line 34: view_xview[2] = 0 -> __view_set( e__VW.XView, 2, 0 )
+Converted builtin - line 52: view_xview[5] = 0 -> __view_set( e__VW.XView, 5, 0 )
+Converted builtin - line 17: view_yview[1] = 0 -> __view_set( e__VW.YView, 1, 0 )
+Converted builtin - line 35: view_yview[2] = 1600 -> __view_set( e__VW.YView, 2, 1600 )
+Converted builtin - line 53: view_yview[5] = 1000 -> __view_set( e__VW.YView, 5, 1000 )
+Converted builtin - line 14: view_wview[1] = 656*2048/1500 -> __view_set( e__VW.WView, 1, 656*2048/1500 )
+Converted builtin - line 32: view_wview[2] = 384 -> __view_set( e__VW.WView, 2, 384 )
+Converted builtin - line 50: view_wview[5] = 500 -> __view_set( e__VW.WView, 5, 500 )
+Converted builtin - line 15: view_hview[1] = 512 -> __view_set( e__VW.HView, 1, 512 )
+Converted builtin - line 33: view_hview[2] = 200 -> __view_set( e__VW.HView, 2, 200 )
+Converted builtin - line 51: view_hview[5] = 400 -> __view_set( e__VW.HView, 5, 400 )
+Converted builtin - line 19: view_object[1] = noone -> __view_set( e__VW.Object, 1, noone )
+Converted builtin - line 37: view_object[2] = noone -> __view_set( e__VW.Object, 2, noone )
+Converted builtin - line 55: view_object[5] = noone -> __view_set( e__VW.Object, 5, noone )
+Converted builtin - line 20: view_visible[1] = true -> __view_set( e__VW.Visible, 1, true )
+Converted builtin - line 38: view_visible[2] = true -> __view_set( e__VW.Visible, 2, true )
+Converted builtin - line 56: view_visible[5] = false -> __view_set( e__VW.Visible, 5, false )
+Converted builtin - line 10: view_xport[1] = 0 -> __view_set( e__VW.XPort, 1, 0 )
+Converted builtin - line 28: view_xport[2] = (2048-384*1.3)/2 -> __view_set( e__VW.XPort, 2, (2048-384*1.3)/2 )
+Converted builtin - line 46: view_xport[5] = (2048-1000)/2 -> __view_set( e__VW.XPort, 5, (2048-1000)/2 )
+Converted builtin - line 11: view_yport[1] = 300 -> __view_set( e__VW.YPort, 1, 300 )
+Converted builtin - line 29: view_yport[2] = 0 -> __view_set( e__VW.YPort, 2, 0 )
+Converted builtin - line 47: view_yport[5] = 500 -> __view_set( e__VW.YPort, 5, 500 )
+Converted builtin - line 8: view_wport[1] = 2048 -> __view_set( e__VW.WPort, 1, 2048 )
+Converted builtin - line 26: view_wport[2] = 384*1.5 -> __view_set( e__VW.WPort, 2, 384*1.5 )
+Converted builtin - line 44: view_wport[5] = 1000 -> __view_set( e__VW.WPort, 5, 1000 )
+Converted builtin - line 9: view_hport[1] = 1171 -> __view_set( e__VW.HPort, 1, 1171 )
+Converted builtin - line 27: view_hport[2] = 300 -> __view_set( e__VW.HPort, 2, 300 )
+Converted builtin - line 45: view_hport[5] = 800 -> __view_set( e__VW.HPort, 5, 800 )
+
+Converting GML script: ${project_dir}\scripts\SetupRoomViewsWin\SetupRoomViewsWin.gml
+Converted builtin - line 16: view_xview[1] = -(656*2048/1500-656)/2 -> __view_set( e__VW.XView, 1, -(656*2048/1500-656)/2 )
+Converted builtin - line 34: view_xview[2] = 0 -> __view_set( e__VW.XView, 2, 0 )
+Converted builtin - line 52: view_xview[5] = 0 -> __view_set( e__VW.XView, 5, 0 )
+Converted builtin - line 17: view_yview[1] = 0 -> __view_set( e__VW.YView, 1, 0 )
+Converted builtin - line 35: view_yview[2] = 1600 -> __view_set( e__VW.YView, 2, 1600 )
+Converted builtin - line 53: view_yview[5] = 1000 -> __view_set( e__VW.YView, 5, 1000 )
+Converted builtin - line 14: view_wview[1] = 656*2048/1500 -> __view_set( e__VW.WView, 1, 656*2048/1500 )
+Converted builtin - line 32: view_wview[2] = 384 -> __view_set( e__VW.WView, 2, 384 )
+Converted builtin - line 50: view_wview[5] = 500 -> __view_set( e__VW.WView, 5, 500 )
+Converted builtin - line 15: view_hview[1] = 512 -> __view_set( e__VW.HView, 1, 512 )
+Converted builtin - line 33: view_hview[2] = 200 -> __view_set( e__VW.HView, 2, 200 )
+Converted builtin - line 51: view_hview[5] = 400 -> __view_set( e__VW.HView, 5, 400 )
+Converted builtin - line 19: view_object[1] = noone -> __view_set( e__VW.Object, 1, noone )
+Converted builtin - line 37: view_object[2] = noone -> __view_set( e__VW.Object, 2, noone )
+Converted builtin - line 55: view_object[5] = noone -> __view_set( e__VW.Object, 5, noone )
+Converted builtin - line 20: view_visible[1] = true -> __view_set( e__VW.Visible, 1, true )
+Converted builtin - line 38: view_visible[2] = true -> __view_set( e__VW.Visible, 2, true )
+Converted builtin - line 56: view_visible[5] = false -> __view_set( e__VW.Visible, 5, false )
+Converted builtin - line 10: view_xport[1] = 0 -> __view_set( e__VW.XPort, 1, 0 )
+Converted builtin - line 28: view_xport[2] = (2048-384*1.3)/2 -> __view_set( e__VW.XPort, 2, (2048-384*1.3)/2 )
+Converted builtin - line 46: view_xport[5] = (2048-1000)/2 -> __view_set( e__VW.XPort, 5, (2048-1000)/2 )
+Converted builtin - line 11: view_yport[1] = 300 -> __view_set( e__VW.YPort, 1, 300 )
+Converted builtin - line 29: view_yport[2] = 0 -> __view_set( e__VW.YPort, 2, 0 )
+Converted builtin - line 47: view_yport[5] = 500 -> __view_set( e__VW.YPort, 5, 500 )
+Converted builtin - line 8: view_wport[1] = 2048 -> __view_set( e__VW.WPort, 1, 2048 )
+Converted builtin - line 26: view_wport[2] = 384*1.5 -> __view_set( e__VW.WPort, 2, 384*1.5 )
+Converted builtin - line 44: view_wport[5] = 1000 -> __view_set( e__VW.WPort, 5, 1000 )
+Converted builtin - line 9: view_hport[1] = 1171 -> __view_set( e__VW.HPort, 1, 1171 )
+Converted builtin - line 27: view_hport[2] = 300 -> __view_set( e__VW.HPort, 2, 300 )
+Converted builtin - line 45: view_hport[5] = 800 -> __view_set( e__VW.HPort, 5, 800 )
+
+Converting GML script: ${project_dir}\scripts\SetHelperScreenSizes\SetHelperScreenSizes.gml
+Converted builtin - line 2: view_visible[0] = false -> __view_set( e__VW.Visible, 0, false )
+
+Converting GML script: ${project_dir}\scripts\DoCountdown\DoCountdown.gml
+Converted string - line 91: 'C' -> "C"
+
+Converting GML script: ${project_dir}\scripts\InitialiseCountDown\InitialiseCountDown.gml
+Converted builtin - line 29: view_visible[5] = true -> __view_set( e__VW.Visible, 5, true )
+Converted string - line 6: 'C' -> "C"
+
+Converting GML script: ${project_dir}\scripts\ProcessGlobalButtons\ProcessGlobalButtons.gml
+Converted string - line 3: 'R' -> "R"
+Converted string - line 9: 'S' -> "S"
+Converted string - line 14: 'M' -> "M"
+
+Converting GML script: ${project_dir}\scripts\InitialiseControlButtons\InitialiseControlButtons.gml
+Converted string - line 1: 'R' -> "R"
+
+Converting GML script: ${project_dir}\scripts\InitialiseReset\InitialiseReset.gml
+Converted builtin - line 4: view_visible[5] = true -> __view_set( e__VW.Visible, 5, true )
+
+Converting GML script: ${project_dir}\scripts\ProcessReset\ProcessReset.gml
+Converted builtin - line 8: view_visible[4]= false -> __view_set( e__VW.Visible, 4, false )
+Converted builtin - line 41: view_visible[5]= 0 -> __view_set( e__VW.Visible, 5, 0 )
+Converted string - line 2: '6' -> "6"
+Converted string - line 3: '7' -> "7"
+Converted string - line 4: '8' -> "8"
+Converted string - line 5: '9' -> "9"
+
+Converting GML script: ${project_dir}\scripts\CreateReset\CreateReset.gml
+Converted string - line 4: '6' -> "6"
+Converted string - line 5: '7' -> "7"
+Converted string - line 6: '8' -> "8"
+Converted string - line 7: '9' -> "9"
+
+Converting GML script: ${project_dir}\scripts\InitialiseChoose\InitialiseChoose.gml
+Converted string - line 4: '0' -> "0"
+Converted string - line 5: '1' -> "1"
+Converted string - line 6: '2' -> "2"
+Converted string - line 7: '3' -> "3"
+Converted string - line 8: '4' -> "4"
+Converted string - line 9: '5' -> "5"
+
+Converting GML script: ${project_dir}\scripts\ProcessChoose\ProcessChoose.gml
+Converted string - line 34: '6' -> "6"
+
+Converting GML script: ${project_dir}\scripts\GetSettings\GetSettings.gml
+Converted string - line 1: 'Settings.ini' -> "Settings.ini"
+Converted string - line 2: 'Option' -> "Option"
+Converted string - line 2: 'Sound' -> "Sound"
+Converted string - line 3: 'Option' -> "Option"
+Converted string - line 3: 'Music' -> "Music"
+Converted string - line 4: 'Option' -> "Option"
+Converted string - line 4: 'GameCenter' -> "GameCenter"
+Converted string - line 5: 'Option' -> "Option"
+Converted string - line 5: 'Facebook' -> "Facebook"
+Converted string - line 9: 'Progress' -> "Progress"
+Converted string - line 9: 'room_score_' -> "room_score_"
+Converted string - line 10: 'Progress' -> "Progress"
+Converted string - line 10: 'room_stars_' -> "room_stars_"
+Converted string - line 11: 'Progress' -> "Progress"
+Converted string - line 11: 'unlocked_' -> "unlocked_"
+Converted string - line 19: 'Progress' -> "Progress"
+Converted string - line 19: 'all_time_stars' -> "all_time_stars"
+Converted string - line 20: 'Achievement' -> "Achievement"
+Converted string - line 20: 'game_hi_score' -> "game_hi_score"
+Converted string - line 21: 'Shop' -> "Shop"
+Converted string - line 21: 'games_played' -> "games_played"
+Converted string - line 23: 'Progress' -> "Progress"
+Converted string - line 23: 'game_hint_index' -> "game_hint_index"
+Converted string - line 28: 'Progress' -> "Progress"
+Converted string - line 28: 'GameProgressScore_' -> "GameProgressScore_"
+Converted string - line 29: 'Progress' -> "Progress"
+Converted string - line 29: 'GameProgressDate_' -> "GameProgressDate_"
+
+Converting GML script: ${project_dir}\scripts\SetSettings\SetSettings.gml
+Converted string - line 3: 'Settings.ini' -> "Settings.ini"
+Converted string - line 4: 'Option' -> "Option"
+Converted string - line 4: 'Sound' -> "Sound"
+Converted string - line 5: 'Option' -> "Option"
+Converted string - line 5: 'Music' -> "Music"
+Converted string - line 6: 'Option' -> "Option"
+Converted string - line 6: 'GameCenter' -> "GameCenter"
+Converted string - line 7: 'Option' -> "Option"
+Converted string - line 7: 'Facebook' -> "Facebook"
+Converted string - line 11: 'Progress' -> "Progress"
+Converted string - line 11: 'room_score_' -> "room_score_"
+Converted string - line 12: 'Progress' -> "Progress"
+Converted string - line 12: 'room_stars_' -> "room_stars_"
+Converted string - line 13: 'Progress' -> "Progress"
+Converted string - line 13: 'unlocked_' -> "unlocked_"
+Converted string - line 15: 'Progress' -> "Progress"
+Converted string - line 15: 'all_time_stars' -> "all_time_stars"
+Converted string - line 17: 'Achievement' -> "Achievement"
+Converted string - line 17: 'game_hi_score' -> "game_hi_score"
+Converted string - line 18: 'Shop' -> "Shop"
+Converted string - line 18: 'games_played' -> "games_played"
+Converted string - line 19: 'Progress' -> "Progress"
+Converted string - line 19: 'game_hint_index' -> "game_hint_index"
+Converted string - line 23: 'Progress' -> "Progress"
+Converted string - line 23: 'GameProgressScore_' -> "GameProgressScore_"
+Converted string - line 24: 'Progress' -> "Progress"
+Converted string - line 24: 'GameProgressDate_' -> "GameProgressDate_"
+
+Converting GML script: ${project_dir}\scripts\GetUserSettings\GetUserSettings.gml
+Converted string - line 1: 'Settings.ini' -> "Settings.ini"
+Converted string - line 2: 'UserSetting' -> "UserSetting"
+Converted string - line 2: 'Thrust' -> "Thrust"
+Converted string - line 6: 'UserSetting' -> "UserSetting"
+Converted string - line 6: 'RotationSensitivity' -> "RotationSensitivity"
+Converted string - line 10: 'UserSetting' -> "UserSetting"
+Converted string - line 10: 'RedFreedom' -> "RedFreedom"
+Converted string - line 14: 'UserSetting' -> "UserSetting"
+Converted string - line 14: 'LanderDamping' -> "LanderDamping"
+
+Converting GML script: ${project_dir}\scripts\SetUserSettings\SetUserSettings.gml
+Converted string - line 1: 'Settings.ini' -> "Settings.ini"
+Converted string - line 2: 'UserSetting' -> "UserSetting"
+Converted string - line 2: 'Thrust' -> "Thrust"
+Converted string - line 3: 'UserSetting' -> "UserSetting"
+Converted string - line 3: 'RotationSensitivity' -> "RotationSensitivity"
+Converted string - line 4: 'UserSetting' -> "UserSetting"
+Converted string - line 4: 'RedFreedom' -> "RedFreedom"
+Converted string - line 5: 'UserSetting' -> "UserSetting"
+Converted string - line 5: 'LanderDamping' -> "LanderDamping"
+
+Font font0 has been converted to font family Arial Narrow (Narrow)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font0\font0.gms1.png
+Font font4 has been converted to font family Arial Narrow (Narrow)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font4\font4.gms1.png
+Font font5 has been converted to font family Arial Narrow (Narrow Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font5\font5.gms1.png
+Font font1 has been converted to font family Arial Narrow (Narrow Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font1\font1.gms1.png
+Font font3 has been converted to font family Arial CE (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font3\font3.gms1.png
+Font SpriteFont has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\SpriteFont\SpriteFont.gms1.png
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'snd_Electric' - setting to default audio group
+Missing audiogroup for sound: 'snd_LanderRoar' - setting to default audio group
+Missing audiogroup for sound: 'snd_Explosion' - setting to default audio group
+Missing audiogroup for sound: 'snd_Ting' - setting to default audio group
+Missing audiogroup for sound: 'snd_LanderBacking1' - setting to default audio group
+Missing audiogroup for sound: 'snd_Electric_High' - setting to default audio group
+Missing audiogroup for sound: 'snd_EvilLaugh' - setting to default audio group
+Missing audiogroup for sound: 'snd_Scream' - setting to default audio group
+Missing audiogroup for sound: 'snd_CountDown' - setting to default audio group
+Missing audiogroup for sound: 'snd_Shooter' - setting to default audio group
+Missing audiogroup for sound: 'snd_LanderStart' - setting to default audio group
+Missing audiogroup for sound: 'snd_ButClick' - setting to default audio group
+Missing audiogroup for sound: 'snd_ButWhoop' - setting to default audio group
+Missing audiogroup for sound: 'snd_JoinRedClick' - setting to default audio group
+Missing audiogroup for sound: 'snd_SmallButClick' - setting to default audio group
+Missing audiogroup for sound: 'snd_ButClickWhoop' - setting to default audio group
+Missing audiogroup for sound: 'snd_SeekerSquash' - setting to default audio group
+Missing audiogroup for sound: 'snd_SwipInOut' - setting to default audio group
+Missing audiogroup for sound: 'snd_Ohhh' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'sound/sound_fade.gml'
+Added compatibility script 'sound/sound_isplaying.gml'
+Added compatibility script 'sound/sound_loop.gml'
+Added compatibility script 'sound/sound_play.gml'
+Added compatibility script 'sound/sound_stop.gml'
+Added compatibility script 'sound/sound_stop_all.gml'
+Added compatibility script 'sound/sound_volume.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script '__global_object_depths.gml'

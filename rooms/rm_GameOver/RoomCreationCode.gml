@@ -1,0 +1,2 @@
+SetHelperScreenSizes();
+InitialiseAds();

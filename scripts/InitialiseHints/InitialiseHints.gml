@@ -1,0 +1,19 @@
+global.game_hint_index = 0;
+
+global.game_hints[0] = "Pick up the Red Lander and collect all the#available stars to get a star bonus.";
+global.game_hints[1] = "Keep an eye on your health and available#time to get the maximum possible score.";
+global.game_hints[2] = "Avoid the electric walls to preserve health.";
+global.game_hints[3] = "Use the yellow walls in Portal Party to#teleport to the correct place on the other#side of the room.";
+global.game_hints[4] = "Get the hail shooter to follow you to#shoot the targets and count down to zero#to open up the doors.";
+global.game_hints[5] = "Some doors only open once you've got the#Invinci-pill and destroyed all the seekers.";
+global.game_hints[6] = "Use the umbrella to shield yourself from#the hail.";
+global.game_hints[7] = "Beware the areas where your steering and#thrust are reversed to make it just a#little more challenging.";
+global.game_hints[8] = "Use the buttons to release the Invinci-pill#when needed, but never before.";
+global.game_hints[9] = "Transport the Red Lander to the swirling#pool to complete each mission.";
+global.game_hints[10] = "The Time Demon will slash your time#remainin every time you touch him.";
+global.game_hints[11] = "Often the order that you perform actions#on a mission is important.";
+global.game_hints[12] = "You may swap your room at any point, but#will continue on with the health and#time you currently have.";
+global.game_hints[13] = "Completing a mission restores your#health and time to maximum.";
+global.game_hints[14] = "Time your passage through the Electro-#Emitters to avoid being electrocuted.";
+global.game_hints[15] = "Adjust your Thrust, Friction, Red-Lander#Freedom and Rotation Speed to suite your#flying style and environment."; 
+global.game_hints[16] = "Try different challenge types to mix it up#a bit. Each challenge configures the#environment to add extra difficulty.";
